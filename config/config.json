@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "sans",
+    "database": "sans-api",
+    "host": "localhost",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "postgres",
+    "password": "sans",
+    "database": "sans-api",
+    "host": "localhost",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "postgres",
+    "password": "sans",
+    "database": "sans-api",
+    "host": "localhost",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
